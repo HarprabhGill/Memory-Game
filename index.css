@@ -2,6 +2,12 @@ body {
     background-color: black;
 }
 
+h1 {
+    font-family: 'Pacifico';
+    font-size: 22px;
+    color: white;
+}
+
 section {
     padding: 20px;
     margin-left: auto;
