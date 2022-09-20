@@ -2,6 +2,11 @@ body {
     background-color: black;
 }
 
-h1 {
+section {
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
     color: white;
+    text-align: center;
+    font-family: Pacifico;
 }
