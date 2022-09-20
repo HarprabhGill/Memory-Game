@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 20;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+
+section {
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
