@@ -1,3 +1,3 @@
 function myfunction() {
-    document.body.innerHTML = "<h1>Triangle" + "</h1>"
+    document.body.innerHTML = "<h1>Circle" + "</h1>"
 }
