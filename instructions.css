@@ -21,5 +21,8 @@ h1{
 }
 
 p {
+    font-family: fantasy;
     color: greenyellow;
+    text-align: center;
+    font-size: 30px;
 }
