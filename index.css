@@ -14,7 +14,7 @@ h1 {
 
 body {
     margin: 0;
-    padding: 20;
+    padding: 80;
     width: 100%;
     height: 100vh;
     display: flex;
@@ -22,6 +22,9 @@ body {
     justify-content: center;
     align-items: center;
     background-image: url("home.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .glow-on-hover {
